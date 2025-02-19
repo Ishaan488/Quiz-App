@@ -1,0 +1,52 @@
+[
+    {
+        "QuestionNumber":1,
+        "question":"What is the capital of Australia?",
+        "optionA":"Sydney",
+        "optionB":"Canberra",
+        "optionC":"Melbourne",
+        "optionD":"Perth",
+        "answer":"Canberra",
+        "lockedAnswer":""
+    },
+    {
+        "QuestionNumber":2,
+        "question":"Who is known as the 'Father of Computers'?",
+        "optionA":"Alan Turing",
+        "optionB":"Charles Babbage",
+        "optionC":"Thomas Edison",
+        "optionD":"John von Neumann",
+        "answer":"Charles Babbage",
+        "lockedAnswer":""
+    },
+    {
+        "QuestionNumber":3,
+        "question":"Which planet is known as the 'Red Planet'?",
+        "optionA":"Venus",
+        "optionB":"Jupiter",
+        "optionC":"Mars",
+        "optionD":"Saturn",
+        "answer":"Mars",
+        "lockedAnswer":""
+    },
+    {
+        "QuestionNumber":4,
+        "question":"What is the chemical symbol for water?",
+        "optionA":"O₂",
+        "optionB":"H₂O",
+        "optionC":"CO₂",
+        "optionD":"NaCl",
+        "answer":"H₂O",
+        "lockedAnswer":""
+    },
+    {
+        "QuestionNumber":5,
+        "question":"Which Indian festival is known as the 'Festival of Lights'?",
+        "optionA":"Holi",
+        "optionB":"Diwali",
+        "optionC":"Eid",
+        "optionD":"Pongal",
+        "answer":"Diwali",
+        "lockedAnswer":""
+    }
+]

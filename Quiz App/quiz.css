@@ -1,0 +1,53 @@
+*{
+    /* font-family: 'Gilroy', sans-serif; */
+    
+    font-family: "Playwrite IT Moderna", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+h1{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.parentOfQuizBox{
+    display: flex;
+}
+#quizBox{
+    margin:80px auto 20px auto;
+    /* width:fit-content; */
+    height:fit-content;
+    border-radius: 10px;
+    background-color:rgb(211, 211, 211);
+}
+.questionBox{
+    width:90%;
+    background-color: rgb(190, 190, 243);
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px auto 10px auto;
+    font-size: 35px;    
+}
+.optionsBox{
+    width: 90%;
+    border-radius: 30px;
+    height:fit-content;
+    margin:15px auto 20px auto;
+    background-color:beige;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,80px);
+}
+button{
+    justify-self:center;
+    align-self: center;
+    height: fit-content;
+    width:fit-content;
+    padding: 10px;
+    font-size:25px;
+}
+.quizNavButtons{
+    display: flex;
+    justify-content: space-between;
+}
